@@ -14,6 +14,13 @@ const PRIMARY = {
   dark: '#007B55',
   darker: '#005249',
 };
+const WHAT = {
+  lighter: '#128C7E',
+  light: '#5BE584',
+  main: '#075E54',
+  dark: '#34B7F1',
+  darker: '#25D366',
+};
 const SECONDARY = {
   lighter: '#D6E4FF',
   light: '#84A9FF',
